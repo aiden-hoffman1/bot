@@ -8,13 +8,13 @@ print(""" ███╗   ██╗██╗████████╗███�
 ██╔██╗ ██║██║   ██║   ██████╔╝██║   ██║   ██║  ███╗█████╗  ██╔██╗ ██║
 ██║╚██╗██║██║   ██║   ██╔══██╗██║   ██║   ██║   ██║██╔══╝  ██║╚██╗██║
 ██║ ╚████║██║   ██║   ██║  ██║╚██████╔╝   ╚██████╔╝███████╗██║ ╚████║
-╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝     ╚═════╝ ╚══════╝╚═╝  ╚═══╝ BY IBI PLAYZ
+╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝     ╚═════╝ ╚══════╝╚═╝  ╚═══╝ aiden jhoffman (volactic-fish7
  """)
 
 time.sleep(2)
 print("PLS DO THIS")
 time.sleep(0.3)
-print("pls SUBSCRIBE to PLAYZ\n")
+print("pls follow shroudy_gaming")
 time.sleep(0.2)
 
 num = int(input('Input How Many Codes to Generate and Check: '))
@@ -50,4 +50,4 @@ with open("Nitro Codes.txt") as file:
 
 
 
-print("\nYou have generated, Now press enter to close this, you'll get valid codes in Valid Codes.txt if you see its empty then you got no luck, generate 20 million codes for luck or else get lost MOTHER FRND AND BE SHORED TO SUBSCRIBE MY CHANNEL IBI PLAYZ.")
+print("\nYou have generated, Now press enter to close this, you'll get valid codes in Valid Codes.")
